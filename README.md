@@ -1,12 +1,48 @@
-# React + Vite
+🌐 Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 A modern, responsive developer portfolio website showcasing my skills, projects, achievements, and experiences. Built with a focus on clean UI, interactivity, and performance.
 
-Currently, two official plugins are available:
+🔗 Live Demo: khushico.netlify.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✨ Features
 
-## Expanding the ESLint configuration
+🎨 Responsive Design – Works smoothly on desktop and mobile
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🖼️ Projects Showcase – Highlighting real-world work with links
+
+⚡ Skills Section – Interactive skill carousel with tech logos
+
+📜 Resume Section – Easy preview & download option
+
+🏆 Achievements & Certifications – Hackathons, coding contests, and global certifications
+
+🌍 Contact Section – Socials & email integration
+
+🛠️ Tech Stack
+
+Frontend: React.js, TailwindCSS
+
+Backend / Hosting: Netlify (with serverless functions if needed)
+
+Other Tools: Figma (UI/UX), GitHub, Open-Source contributions
+
+🚀 Getting Started
+
+Clone the repo and run locally:
+
+# Clone the repository
+git clone https://github.com/your-username/portfolio.git
+
+# Navigate into project folder
+cd portfolio
+
+# Install dependencies
+npm install
+
+# Start development server
+npm start
+
+
+
+
+✨ Always learning, building, and contributing to tech!
