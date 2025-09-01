@@ -2,7 +2,7 @@
 
 🚀 A modern, responsive developer portfolio website showcasing my skills, projects, achievements, and experiences. Built with a focus on clean UI, interactivity, and performance.
 
-🔗 Live Demo: khushico.netlify.app
+🔗 Live Demo: (https://khushico.netlify.app/)
 
 ✨ Features
 
@@ -31,7 +31,7 @@ Other Tools: Figma (UI/UX), GitHub, Open-Source contributions
 Clone the repo and run locally:
 
 # Clone the repository
-git clone https://github.com/your-username/portfolio.git
+git clone (https://github.com/dhaarypravi/portfolio)
 
 # Navigate into project folder
 cd portfolio
