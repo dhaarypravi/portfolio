@@ -4,6 +4,7 @@ import sas from "../assets/projectimage/sass.png";
 import crowd from "../assets/projectimage/crowd.png";
 import steller from "../assets/projectimage/pay.jpg";
 import portfoilo from "../assets/projectimage/portfolio.png";
+import meeting from "../assets/projectimage/meeting.png";
 const ProjectsSection = () => {
   const projects = [
     {
@@ -19,7 +20,7 @@ const ProjectsSection = () => {
       image: steller
     },
     {
-      title: "Crowd Monitoring and Alert",
+      title: "Crowd Monitoring",
       text: "Crowd Monitoring and Alert System tracks, analyzes, and manages crowd density in real time using sensors and image processing.",
       link: "https://github.com/shreeya11-ss/TechBiz_CIH_2.0",
       image: crowd,
@@ -30,6 +31,12 @@ const ProjectsSection = () => {
       link: "https://surprise-planner.netlify.app/",
       image: sas,
     },
+    {
+      title: "Meeting-summarizer",
+      text: "Meeting-summarizer is an AI-powered tool that automatically generates summaries of meetings, making it easier to keep track of important discussions and decisions.",
+      link: "https://fabulous-raindrop-6f6f73.netlify.app/",
+      image: meeting,
+    }
   ];
 
   return (
